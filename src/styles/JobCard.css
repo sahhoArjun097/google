@@ -1,0 +1,48 @@
+.job-card {
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .job-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .job-remote {
+    color: #22c55e;
+    background-color: #e8fbe9;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+  
+  .job-footer {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .company-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .company-name {
+    font-weight: bold;
+  }
+  
+  .bookmark-btn {
+    margin-left: auto;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
